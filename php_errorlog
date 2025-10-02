@@ -1,0 +1,5 @@
+[29-Aug-2025 05:41:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbduiiuo3xdtsf.hotels' doesn't exist in /home/customer/www/rsoa34.millioncoders.net/public_html/hilton/index.php:71
+Stack trace:
+#0 /home/customer/www/rsoa34.millioncoders.net/public_html/hilton/index.php(71): mysqli->prepare('SELECT id,name,...')
+#1 {main}
+  thrown in /home/customer/www/rsoa34.millioncoders.net/public_html/hilton/index.php on line 71
